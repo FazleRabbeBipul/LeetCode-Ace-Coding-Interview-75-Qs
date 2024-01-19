@@ -18,9 +18,3 @@ public:
         return ans;
     }
 };
-int main()
-{
-    string s = "123";
-    for (auto it : s)
-        cout << it;
-}
